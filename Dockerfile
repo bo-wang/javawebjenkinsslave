@@ -123,7 +123,6 @@ RUN mkdir /var/tmp/openshift \
       && rm -rf /var/tmp/openshift
 
 
-
 #====================================
 # Setup Jenkins Slave
 # 
